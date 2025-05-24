@@ -1,0 +1,73 @@
+/* Dark Theme Reset & Base */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  background-color: rgb(18 18 18 / 86%);
+;
+  color: #e0e0e0;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+/* Layout Containers */
+header, main, footer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Headings */
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid #333;
+  color: #ffffff;
+}
+
+/* Links and Buttons */
+a {
+  color: #80c9ff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #1f6feb;
+  color: #fff;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.2s;
+}
+
+.cta-button:hover {
+  background-color: #1158c7;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Footer */
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  text-align: center;
+  color: #888;
+}
