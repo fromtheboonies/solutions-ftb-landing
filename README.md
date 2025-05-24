@@ -8,7 +8,8 @@ This is the official landing page for **Solutions FTB, Inc.** — a one-man dev 
 - Hosted on Netlify with GitHub auto-deploy
 
 ### 🚀 Live Site
-[https://solutionsftb.netlify.app](https://solutionsftb.netlify.app) *(update after deploy)*
+[https://solutionsftb.netlify.app](https://solutionsftb.netlify.app)
+[https://solutionsftb.com](https://solutionsftb.com)
 
 ### ✏️ Editing / Updating
 To make changes:
@@ -24,4 +25,4 @@ Legacy code, missing specs, no documentation — I stabilize the mission-critica
 ---
 
 © 2025 Solutions FTB, Inc.  
-[LinkedIn](https://www.linkedin.com/in/jesse-schauer) | [Email](mailto:jesse@solutionsftb.com)
+[LinkedIn](https://www.linkedin.com/in/jesse-schauer) | [Email](mailto:jesse@designsftb.com)
